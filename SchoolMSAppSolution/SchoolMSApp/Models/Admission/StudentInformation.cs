@@ -40,6 +40,10 @@ namespace SchoolMSApp.Models.Admission
         public string StudentName { get; set; }
 
 
+        [Required(ErrorMessage ="Student picture must be require!")]
+        [DataType(DataType.ImageUrl)]
+        [Display(Name = "Student Picture")]
+        public byte[] StudentPicture { get; set; }
         
         public int? ClassRoll { get; set; }
 
