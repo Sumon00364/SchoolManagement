@@ -105,6 +105,5 @@ E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\bin\Microsoft
 E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\bin\Microsoft.Owin.Security.Google.xml
 E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\bin\Microsoft.Owin.Security.Twitter.xml
 E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\obj\Debug\SchoolMSApp.csprojResolveAssemblyReference.cache
 E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\obj\Debug\SchoolMSApp.dll
 E:\Claint Project\SchoolManagement\SchoolMSAppSolution\SchoolMSApp\obj\Debug\SchoolMSApp.pdb

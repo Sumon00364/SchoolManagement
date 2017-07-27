@@ -109,12 +109,7 @@ namespace SchoolMSApp.Models.Admission
         [DataType(DataType.Upload)]
         [Display(Name ="Adminitrative Employee CV")]
         public byte[] AdminitrativeCV { get; set; }
-    }
-    public enum Gender
-    {
-        Male,
-        Female
-    }
+    }   
     public enum Reference
     {
         Father,
