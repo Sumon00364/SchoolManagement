@@ -45,6 +45,10 @@ namespace SchoolMSApp.Models.Admission
         [Display(Name = "Student Picture")]
         public byte[] StudentPicture { get; set; }
         
+
+        /// <summary>
+        /// ===---A student class roll create by a student result
+        /// </summary>
         public int? ClassRoll { get; set; }
 
 

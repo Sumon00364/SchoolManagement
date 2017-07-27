@@ -91,7 +91,7 @@ namespace SchoolMSApp.Models.Admission
         [Required(ErrorMessage = "Gurdian picture is require!")]
         [DataType(DataType.ImageUrl)]
         [Display(Name = "Gurdian's Picture")]
-        public byte[] GurdianPIcture { get; set; }
+        public byte[] GurdianPicture { get; set; }
 
 
         [Required(ErrorMessage = "Gurdian's occupation is require!")]
